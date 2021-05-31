@@ -10,7 +10,7 @@ require (
 	github.com/google/go-cmp v0.5.1
 	github.com/kayac/go-config v0.4.2
 	github.com/kylelemons/godebug v1.1.0
-	github.com/mattn/go-isatty v0.0.12
+	github.com/mattn/go-isatty v0.0.13
 	github.com/morikuni/aec v0.0.0-20170113033406-39771216ff4c
 	github.com/pkg/errors v0.9.1
 	gopkg.in/yaml.v2 v2.3.0
