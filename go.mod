@@ -4,7 +4,7 @@ go 1.12
 
 require (
 	github.com/Songmu/prompter v0.5.0
-	github.com/alecthomas/kingpin v1.3.8-0.20190930021037-0a108b7f5563
+	github.com/alecthomas/kingpin v2.2.6+incompatible
 	github.com/aws/aws-sdk-go v1.43.15
 	github.com/fatih/color v1.12.0
 	github.com/fujiwara/cfn-lookup v0.0.2
