@@ -34,13 +34,13 @@ require (
 	github.com/hexops/gotextdiff v1.0.3
 	github.com/kayac/go-config v0.6.0
 	github.com/kylelemons/godebug v1.1.0
-	github.com/mattn/go-isatty v0.0.16
+	github.com/mattn/go-isatty v0.0.18
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/opencontainers/image-spec v1.0.2
 	github.com/samber/lo v1.36.0
 	github.com/schollz/progressbar/v3 v3.11.0
 	github.com/shogo82148/go-retry v1.1.1
-	golang.org/x/sys v0.5.0
+	golang.org/x/sys v0.6.0
 )
 
 require (
