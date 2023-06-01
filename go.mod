@@ -34,7 +34,7 @@ require (
 	github.com/hexops/gotextdiff v1.0.3
 	github.com/kayac/go-config v0.6.0
 	github.com/kylelemons/godebug v1.1.0
-	github.com/mattn/go-isatty v0.0.17
+	github.com/mattn/go-isatty v0.0.19
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/opencontainers/image-spec v1.0.2
 	github.com/samber/lo v1.36.0
