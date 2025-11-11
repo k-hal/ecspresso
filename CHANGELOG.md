@@ -1,5 +1,7 @@
 # Changelog
 
+## [v0.17.3](https://github.com/k-hal/ecspresso/compare/v0.17.2...v0.17.3) - 2025-11-11
+
 ## [v2.6.3](https://github.com/kayac/ecspresso/compare/v2.6.2...v2.6.3) - 2025-10-31
 - Update aws-sdk-go-v2/service/ecs to v1.67.0 by @fujiwara in https://github.com/kayac/ecspresso/pull/889
 - show serviceRevisionsSummaries in waiting. by @fujiwara in https://github.com/kayac/ecspresso/pull/890
