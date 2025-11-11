@@ -1,6 +1,6 @@
 module github.com/kayac/ecspresso/v2
 
-go 1.23.0
+go 1.24.0
 
 toolchain go1.24.7
 
@@ -47,7 +47,7 @@ require (
 	github.com/samber/lo v1.46.0
 	github.com/schollz/progressbar/v3 v3.14.6
 	github.com/shogo82148/go-retry v1.1.1
-	golang.org/x/sys v0.33.0
+	golang.org/x/sys v0.38.0
 )
 
 require (
